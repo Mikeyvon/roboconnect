@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/roboconnect/static/css/main.8dffb63b.css",
+    "main.js": "/roboconnect/static/js/main.915531ce.js",
+    "static/js/787.69e82a8e.chunk.js": "/roboconnect/static/js/787.69e82a8e.chunk.js",
+    "static/media/SEGA.woff": "/roboconnect/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/roboconnect/index.html",
+    "main.8dffb63b.css.map": "/roboconnect/static/css/main.8dffb63b.css.map",
+    "main.915531ce.js.map": "/roboconnect/static/js/main.915531ce.js.map",
+    "787.69e82a8e.chunk.js.map": "/roboconnect/static/js/787.69e82a8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dffb63b.css",
+    "static/js/main.915531ce.js"
+  ]
+}
